@@ -6,6 +6,10 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### Added
+- `tests/template.test.cjs` — 27 new tests covering `template select` and `template fill` (summary, plan, verification). Raises `template.cjs` line coverage from 5.4% to 100% and overall project line coverage from 89.92% to 93.82%.
+- `docs/RESEARCH.md` — comprehensive improvement and customization research report documenting coverage gaps, architecture observations, customization opportunities, and workflow completeness analysis.
+
 ## [1.22.4] - 2026-03-03
 
 ### Added
