@@ -1,5 +1,7 @@
 # Architecture
 
+> For a full technical deep-dive (installation pipeline, library module API, data model, hooks), see [docs/ARCHITECTURE.md](../docs/ARCHITECTURE.md).
+
 ## Overview
 
 GSD is a CLI tool and prompt library. The installer writes prompt files and hook scripts into the user's AI coding runtime. Once installed, all commands run entirely within the AI agent's context — no server, no daemon.
