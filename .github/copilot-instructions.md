@@ -4,11 +4,9 @@ You are working on **Get Shit Done (GSD)** — a meta-prompting, context enginee
 
 ## Project Context
 
-See the `context/` directory for full details:
-- `context/project.md` — Project overview, purpose, tech stack, key decisions
-- `context/architecture.md` — Component map, data flows, module responsibilities
-- `context/development.md` — Code style, file naming, testing, changelog rules
-- `context/commands.md` — GSD command reference
+Read **all files** in the `context/` directory before starting any work. The directory is organic — new files are added over time as decisions, research, plans, and instructions are captured. Do not assume a fixed set of files exists; always list and read the full directory contents.
+
+When you gain new knowledge — decisions made, plans formed, research completed, patterns discovered — **add it to `context/`** as a new file or append it to an existing relevant file. Keep entries concise and factual. This keeps the context self-feeding and useful across sessions.
 
 ## Key Rules
 
